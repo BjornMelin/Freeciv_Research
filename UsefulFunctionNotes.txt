@@ -1,0 +1,31 @@
+This file contains the function calls in freeciv that are useful in extracting
+the data/information deemed useful for the AI, as well as anything we may find
+useful.
+
+player_name(pplayer)
+    This function takes in a pointer to a player and returns the player name 
+    for said player. 
+
+get_civ_score(pplayer)
+    This function takes in a pointer to a player and returns said player's
+    current total score.
+
+get_gold(pplayer)
+    This function takes in a pointer to a player and returns said player's
+    total amount of gold. 
+
+get_gov(pplayer)
+    This function takes in a pointer to a player and returns the current
+    government type that said player has.
+
+get_techs(pplayer)
+    This function takes in a pointer to a player then returns the players
+    current number of techs. In our AI this is what is used for the tech
+    level.
+
+get_cities(pplayer)
+    This function takes in a pointer to a player and returns the number of
+    cities that player has.
+
+
+

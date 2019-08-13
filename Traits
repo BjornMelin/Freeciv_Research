@@ -1,0 +1,7 @@
+The behavior of AI players in Freeciv are governed by three traits: Expansionist, the desire to settle new territory; Trader, the desire to establish trade
+routes; and Aggression, the desire to declare war. By default, these traits are all set to 50 for each nation, however this may be adjusted in custom rulesets.
+To change these values, find the relevant civ in Freeciv-2.5.11\data\civ2\nation, and include a line such as 'trait_expansionist = 75' to increase their 
+expansionist behavior.
+Alternatively, can be modified via Lua scripting using the command edit.trait_mod(player,trait,amount).
+
+Trait references located in \ai\aicity, \ai\advdiplomacy, \ai\advdomestic.

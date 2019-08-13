@@ -1,0 +1,29 @@
+Started Freeciv game with 7 players and a 1,000 turn limit
+Start time: 10:51	End time: 11:45		End turn #: 1,000		AI LVL: Hard	End Game Status Message: "Turn limit reached"
+
+Started Freeciv game with 7 players and a 1,000 turn limit
+Start time: 11:50	End time: 12:46		End turn #: 1,000		AI LVL: Hard	End Game Status Message: "Turn limit reached"
+
+Started Freeciv game with 5 players and a 1,000 turn limit
+Start time: 9:46	End time: 10:43		End turn #: 1,000		AI LVL: Hard	End Game Status Message: "Turn limit reached"
+
+Started Freeciv game with 10 players and a 1,000 turn limit
+Start time: 10:49	End time: 11:40		End turn #: 1,000		AI LVL: Hard	End Game Status Message: "Turn limit reached"
+
+Started Freeciv game with 20 players and a 1,000 turn limit
+Start time: 11:42	End time: 12:40		End turn #: 1,000		AI LVL: Hard	End Game Status Message: "Turn limit reached"
+
+Started Freeciv game with 35 players and a 1,000 turn limit
+Start time: 1:28	End time: 2:30		End turn #: 1,000 		AI LVL: Hard	End Game Status Message: "Turn limit reached"
+
+Started Freeciv game with 50 players and a 1,000 turn limit
+Start time: 2:47	End time: 3:42		End turn #: 1,000		AI LVL: Hard	End Game Status Message: "Turn limit reached"
+
+Started Freeciv game with 100 players and a 1,000 turn limit
+Start time: 3:45 	End time: 4:15		End turn #: 554		AI LVL: Hard 	End Game Status Message: "Victory for Stalin"
+
+Started Freeciv game with 115 players and a 1,000 turn limit
+Start time: 4:24	End time: 5:22		End turn #: 1,000		AI LVL: Hard	End Game Status Message: "Turn limit reached"
+
+Started Freeciv game with 110 players and a 1,000 turn limit
+Start time: 9:29 	End time: 10:27		End turn #: 1,000		AI LVL: Hard	End Game Status Message: "Turn limit reached"
