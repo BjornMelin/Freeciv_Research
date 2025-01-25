@@ -1,5 +1,3 @@
-
-
 def main():
     f = open("ScoreData.txt", " w+")
 
@@ -16,5 +14,7 @@ def main():
             score += 1
         if i % 100 == 0 and i != 0:
             score += 1
-        f.write(str(score) + '\n')
+        f.write(str(score) + "\n")
+
+
 main()
